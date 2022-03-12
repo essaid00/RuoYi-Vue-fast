@@ -1,3 +1,45 @@
+Framework de développement rapide Java basé sur la séparation front-end et back-end SpringBoot+Vue
+  
+
+Présentation de la plateforme
+Ce référentiel est la version à application unique de RuoYi-Vue, qui est mise à jour de manière synchrone.
+Prise en charge de l'adresse de code frontale RuoYi-Vue , pile technologique ( Vue2 + Element + Vue CLI ).
+Prise en charge de l'adresse de code frontale RuoYi-Vue3 , pile technologique ( Vue3 + Element Plus + Vite ).
+Le frontal adopte Vue et Element UI.
+Le backend utilise Spring Boot, Spring Security, Redis & Jwt.
+L'authentification de l'autorité utilise Jwt, qui prend en charge le système d'authentification multi-terminal.
+Prise en charge du chargement du menu d'autorisation dynamique, contrôle facile des autorisations de plusieurs manières.
+Développement efficace, utilisez le générateur de code pour générer du code front-end et back-end en un seul clic.
+Une version Oracle RuoYi-Vue-Oracle est fournie pour le maintenir à jour.
+Ne séparez pas la version, veuillez passer à RuoYi , version microservice, veuillez passer à RuoYi-Cloud
+Alibaba Cloud Discount Market : Cliquez sur moi pour entrer , Tencent Cloud Seckill Market : Cliquez sur moi pour entrer  
+Coupon Alibaba Cloud : Cliquez sur moi pour l'obtenir , Coupon Tencent Cloud : Cliquez sur moi pour l'obtenir  
+Fonction intégrée
+Gestion des utilisateurs : L'utilisateur est l'opérateur du système, et cette fonction complète principalement la configuration de l'utilisateur du système.
+Gestion des services : configurez l'organisation du système (entreprise, service, groupe) et l'arborescence affiche les autorisations de données de support.
+Gestion des postes : configurez les postes auxquels appartiennent les utilisateurs du système.
+Gestion des menus : configurer le menu système, l'autorité de fonctionnement, l'identification de l'autorité des boutons, etc.
+Gestion des rôles : attribuez des autorisations de menu de rôle, définissez des rôles et divisez les autorisations d'étendue des données par organisation.
+Gestion du dictionnaire : conservez certaines données relativement fixes qui sont souvent utilisées dans le système.
+Gestion des paramètres : configurez dynamiquement les paramètres communs du système.
+Annonce : le système notifie l'annonce de la publication et de la maintenance des informations.
+Journal des opérations : enregistrez et interrogez le journal des opérations normales du système ; enregistrez et interrogez les informations anormales du système.
+Journal de connexion : la requête d'enregistrement du journal de connexion système contient des exceptions de connexion.
+Utilisateurs en ligne : surveillez l'état des utilisateurs actifs dans le système actuel.
+Tâches planifiées : la planification des tâches en ligne (ajouter, modifier, supprimer) inclut les journaux des résultats d'exécution.
+Génération de code : La génération de code front-end et back-end (java, html, xml, sql) prend en charge le téléchargement CRUD.
+Interface système : Générez automatiquement des documents d'interface API pertinents en fonction des codes métier.
+Surveillance des services : surveillez le processeur, la mémoire, le disque, la pile et d'autres informations connexes du système actuel.
+Surveillance du cache : interrogez les informations de cache du système, les statistiques de commande, etc.
+Générateur en ligne : faites glisser des éléments de formulaire pour générer le code HTML correspondant.
+Surveillance du pool de connexions : surveillez l'état actuel du pool de connexions de la base de données système et analysez SQL pour découvrir les goulots d'étranglement des performances du système.
+expérience en ligne
+admin/admin123
+J'ai reçu quelques conseils les uns après les autres, qui ont été utilisés pour démontrer les mises à niveau du serveur pour une meilleure expérience. Merci les gars.
+Adresse démo : http://vue.ruoyi.vip
+Adresse document : http://doc.ruoyi.vip
+
+carte de démonstration
 <p align="center">
 	<img alt="logo" src="https://oscimg.oschina.net/oscnet/up-d3d0a9303e11d522a06cd263f3079027715.png">
 </p>
